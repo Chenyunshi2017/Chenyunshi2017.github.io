@@ -3,17 +3,17 @@
 - title: 浪里游
   url: /portfolio/
   excerpt: "web 作品集"
-  image: learning_teaching.gif
+  image: langliyou.gif
 
 - title: 梦银河
   url: /infovis/
   excerpt: "信息可视化作品集"
-  image: yexing.jpg
+  image: mengliyou.jpg
 
 - title: 夜行
   url: /posts/
   excerpt: "所有文章"
-  image: 300x200.gif
+  image: yexing.gif
 
 - title: 联络我
   url: /contact/
