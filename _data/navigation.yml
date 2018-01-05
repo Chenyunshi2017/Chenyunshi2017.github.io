@@ -11,11 +11,11 @@
   image: mengliyou.jpg
 
 - title: 夜行
-  url: /posts/
+  url: /posts/rwd/
   excerpt: "所有文章"
   image: yexing.gif
 
-- title: 联络我
-  url: /contact/
+- title: 嗜睡症
+  url: /posts/infovis/
   excerpt: "说完"
   image: Pigeon_post.jpg
