@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "html颜色名
+title:  "html颜色名"
 date:   2018-1-4 16:07:50 +0800
 categories: posts/rwd
 image:
