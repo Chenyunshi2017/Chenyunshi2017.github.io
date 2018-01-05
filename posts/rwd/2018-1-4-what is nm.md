@@ -2,7 +2,7 @@
 layout: article
 title:  "什么是新媒体？"
 date:   2018-1-2 12:03:50 
-categories: portfolio/article2
+categories: posts/rwd
 image:
   teaser: what is nm.jpg
   feature: what is nm.jpg
