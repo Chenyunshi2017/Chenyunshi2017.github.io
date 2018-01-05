@@ -2,7 +2,7 @@
 layout: article
 title:  "【简明版】有道云笔记Markdown指南"
 date:   2018-01-05 22:07:50 +0800
-categories: posts/rwd
+categories: article
 image:
   teaser: youdaoyun.png
   feature: youdaoyun.png
