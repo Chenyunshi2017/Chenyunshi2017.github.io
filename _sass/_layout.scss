@@ -80,8 +80,8 @@
 				width: 100%;
 			}
 			&:hover {
-				color: $oxfordblue;
-				background-color: $lemon;
+				color: $LightSlateGray;
+				background-color: $LightSkyBlue;
 			}
 		}
 	}
@@ -108,8 +108,8 @@
 	}
 	li {
 		a {
-			font-weight: 700;
-			@include font-size(16,no);
+			font-weight: 800;
+			@include font-size(18,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
 			color: $black;
 			text-transform: uppercase;
@@ -121,7 +121,7 @@
 
 .bottom-menu {
 	@include clearfix;
-	font-weight: 700;
+	font-weight: 800;
 	a {
 		color: lighten($black,60);
 	}
