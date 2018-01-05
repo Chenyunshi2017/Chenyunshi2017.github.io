@@ -12,10 +12,10 @@
 
 - title: 夜行
   url: /posts/rwd/
-  excerpt: "所有文章"
+  excerpt: "web文章"
   image: yexing.gif
 
 - title: 嗜睡症
   url: /posts/infovis/
-  excerpt: "说完"
+  excerpt: "信息可视化文章"
   image: Pigeon_post.jpg
