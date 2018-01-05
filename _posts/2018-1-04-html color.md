@@ -4,8 +4,8 @@ title:  "html颜色名
 date:   2018-1-4 16:07:50 +0800
 categories: /posts/rwd/
 image:
-  teaser: w3c picture.jpg
-  feature: w3c picture.jpg
+  teaser: w3c picture.png
+  feature: w3c picture.png
 ---
 
 - AliceBlue 	#F0F8FF	 
