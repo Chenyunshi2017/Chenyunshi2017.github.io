@@ -1,10 +1,10 @@
 ---
 layout: article
-title:  第一次尝试更改网页"
+title:  "第一次尝试更改网页"
 date:   2017-12-29 23:07:50 +0800
 categories: portfolio
 image:
-  teaser: SOC-Logopng
+  teaser: SOC-Logo.png
   feature: SOC-Logo.png
 ---
 
