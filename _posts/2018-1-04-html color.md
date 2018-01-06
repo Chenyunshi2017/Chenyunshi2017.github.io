@@ -8,7 +8,12 @@ image:
   feature: w3c picture.png
 ---
 
-## html颜色名
+## 本页提供了被大多数浏览器支持的颜色名。
+
+++提示++：W3C 的 HTML 4.0 标准仅支持 16 种**颜色名**，它们是：aqua、black、blue、fuchsia、gray、green、lime、maroon、navy、olive、purple、red、silver、teal、white、yellow。
+如果使用其它颜色的话，就应该使用**十六进制的颜色值**。
+
+## 颜色名列表
 
 - AliceBlue 	#F0F8FF	 
 - AntiqueWhite 	#FAEBD7	 
@@ -153,3 +158,5 @@ image:
 - WhiteSmoke 	#F5F5F5	 
 - Yellow 	#FFFF00	 
 - YellowGreen 	#9ACD32
+
+> 来源：[http://www.w3school.com.cn/tags/html_ref_colornames.asp](http://www.w3school.com.cn/tags/html_ref_colornames.asp)
