@@ -8,7 +8,8 @@ image:
   feature: gdp&pop.png
 ---
 
-第一次用tableau做可视化用的数据是GDP和POP。  
+## 第一次用tableau做可视化用的数据是GDP和POP。
+
 课后把课堂上做的再做一遍，加深记忆。
 ***
 
