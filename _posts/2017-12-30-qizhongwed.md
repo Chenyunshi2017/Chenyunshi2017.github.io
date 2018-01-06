@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "期中网页作品"
+title:  "期中专题网页作品"
 date:   2017-12-30 22:07:50 +0800
 categories: portfolio
 image:
