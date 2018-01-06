@@ -63,9 +63,9 @@ image:
 有关点分布图的详细信息，以及若要了解如何创建它们，请参见[在 Tableau 中创建突出显示可视数据群集的地图。](https://onlinehelp.tableau.com/current/pro/desktop/zh-cn/maps_howto_pointdistribution.html)  
 ![点分布图](https://onlinehelp.tableau.com/current/pro/desktop/zh-cn/Img/maps_build7.png)
 
-流线图（路径图）
+### 流线图（路径图）
 您可以使用流线图连接地图上的路径，并查看随时间发生的事件的地点。例如，您可以跟踪一段时间内世界各地的主要风暴的路径。
-有关流线图的详细信息，以及若要了解如何在 Tableau 中创建这些地图，请参见[在 Tableau 中创建显示随时间变化的路径的地图。](https://onlinehelp.tableau.com/current/pro/desktop/zh-cn/maps_howto_flow.html)
+有关流线图的详细信息，以及若要了解如何在 Tableau 中创建这些地图，请参见[在 Tableau 中创建显示随时间变化的路径的地图。](https://onlinehelp.tableau.com/current/pro/desktop/zh-cn/maps_howto_flow.html)  
 ![流线图](https://onlinehelp.tableau.com/current/pro/desktop/zh-cn/Img/maps_build8.png)
 
 ### 蜘蛛图（起点-终点图）
