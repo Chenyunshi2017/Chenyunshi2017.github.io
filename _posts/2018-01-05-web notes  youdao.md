@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "【简明版】有道云笔记Markdown指南"
+title:  "有道云笔记Markdown指南"
 date:   2018-01-05 22:07:50 +0800
 categories: article
 image:
@@ -9,8 +9,7 @@ image:
 ---
 
 
-# 有道云笔记Markdown指南
-> 什么是Markdown？
+## 什么是Markdown？
 
 Markdown是一种轻量级的「标记语言」，  通常为程序员群体所用，目前它已是全球最大的技术分享网站 GitHub 和技术问答网站 StackOverFlow 的御用书写格式。
 
