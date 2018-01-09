@@ -4,7 +4,7 @@ title:  "Tableau 中的映射（map）"
 date:   2018-01-01 22:07:50 +0800
 categories: infovis 
 image:
-  teaser: tableau article.png
+  teaser: timgg.png
   feature: tableau article.png
 ---
 
